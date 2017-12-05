@@ -1,0 +1,10 @@
+@import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
+
+body{
+    background: white url("images/memphis-colorful.png");
+    font-family: 'Jeju Gothic', sans-serif;
+}
+
+#logo{
+    font-family: 'Satisfy', cursive;
+}
